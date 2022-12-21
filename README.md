@@ -1,5 +1,5 @@
 # Spring 2022 Enrollment Data
-Enrollment data for Spring 2022. 
+Enrollment data for Spring 2022 at UC San Diego.
 
 ## Supported Courses
 I only have enrollment data for:
@@ -53,3 +53,9 @@ Expect a roughly **8.5 minute interval** between requests to the same course. *T
 
 ## Other Remarks
 - I do not have data for Feb. 27 and early Feb. 28. This was due to an issue with WebReg giving me a `shibsp::ListenerException` for the day. That being said, since these two dates are after the first week of second pass, very little should have changed during these times. 
+
+
+## Final Notes
+For more information about the project, including to ask any questions, please go to the [parent repository](https://github.com/ewang2002/UCSDHistEnrollData). 
+
+Do not create issues or pull requests in this repository; they will be ignored. 
